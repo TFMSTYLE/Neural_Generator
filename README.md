@@ -3,7 +3,7 @@
 ![neural-thumb](https://github.com/user-attachments/assets/66f26c8d-ac34-4099-90e4-fab16ab1d8a3)
 
 **Author:** The French Monkey (TFMSTYLE)  
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 
 ---
 
@@ -117,3 +117,21 @@ The resulting object is a fully parametric 3D curve with adjustable bevel and ta
 - Enable **Live Update** to experiment interactively while tuning parameters.  
 - Generated curves are procedural and can be converted to mesh for sculpting, rendering, or further processing.  
 - The generator is designed for creative visualization — not anatomical or scientific simulation.
+
+---
+
+## Install
+
+Needs Blender 4.2 or later. Get the zip from [tfmstyle.com](https://tfmstyle.com), then in Blender open Edit > Preferences > Get Extensions, open the menu at the top right and pick Install from Disk.
+
+To build the zip yourself, run this in the repo folder:
+
+```bash
+blender --command extension build
+```
+
+---
+
+## License
+
+GPL 3.0 or later. See [LICENSE](LICENSE).
