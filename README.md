@@ -3,7 +3,7 @@
 ![neural-thumb](https://github.com/user-attachments/assets/66f26c8d-ac34-4099-90e4-fab16ab1d8a3)
 
 **Author:** The French Monkey (TFMSTYLE)  
-**Version:** 1.0.2  
+**Version:** 1.0.3  
 
 ---
 
